@@ -1,0 +1,56 @@
+/* Header.css */
+body{
+  background-color: black;
+}
+.header {
+    background-color:black;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .header h1 {
+    margin-left: 1cm;
+    margin-right:15cm;
+    display: inline;
+    font-style: italic;
+    font-size: 1.3cm;
+
+  }
+  
+  .header nav ul {
+    list-style: none;
+    padding: 0;
+  
+  }
+  
+  .header nav ul li {
+    display: inline;
+    font-style: italic;
+    margin-right: 1cm;
+  }
+  
+  .header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .header nav ul li a:hover {
+    text-decoration: underline;
+  }
+  /* curd */
+  .Add-activity{
+    color: #fff;
+    text-align: center;
+    padding: 1cm;
+    margin-right: 1cm;
+    font-style: italic;
+
+  }
+  .Add-description{
+    color: #fff;
+    text-align: center;
+    padding: 1cm;
+    margin-right: 1cm;
+    font-style: italic;
+  }
+  
